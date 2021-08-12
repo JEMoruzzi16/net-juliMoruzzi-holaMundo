@@ -1,0 +1,10 @@
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\winform-holaMundo\bin\Debug\winform-holaMundo.exe.config
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\winform-holaMundo\bin\Debug\winform-holaMundo.exe
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\winform-holaMundo\bin\Debug\winform-holaMundo.pdb
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\winform-holaMundo\obj\Debug\winform-holaMundo.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\winform-holaMundo\obj\Debug\winform_holaMundo.Form1.resources
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\winform-holaMundo\obj\Debug\winform_holaMundo.Properties.Resources.resources
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\winform-holaMundo\obj\Debug\winform-holaMundo.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\winform-holaMundo\obj\Debug\winform-holaMundo.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\winform-holaMundo\obj\Debug\winform-holaMundo.exe
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\winform-holaMundo\obj\Debug\winform-holaMundo.pdb

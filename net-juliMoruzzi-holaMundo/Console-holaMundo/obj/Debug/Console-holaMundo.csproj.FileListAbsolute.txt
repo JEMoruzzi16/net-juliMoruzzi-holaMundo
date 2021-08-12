@@ -1,0 +1,7 @@
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\Console-holaMundo\bin\Debug\Console-holaMundo.exe.config
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\Console-holaMundo\bin\Debug\Console-holaMundo.exe
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\Console-holaMundo\bin\Debug\Console-holaMundo.pdb
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\Console-holaMundo\obj\Debug\Console-holaMundo.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\Console-holaMundo\obj\Debug\Console-holaMundo.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\Console-holaMundo\obj\Debug\Console-holaMundo.exe
+C:\Users\julia\OneDrive\Escritorio\Programación III\Repositorios\net-juliMoruzzi-holaMundo\Console-holaMundo\obj\Debug\Console-holaMundo.pdb
